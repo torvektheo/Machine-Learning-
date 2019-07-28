@@ -76,6 +76,3 @@ References:
 https://en.wikipedia.org/wiki/Machine_learning
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/
 http://machinelearningmastery.com/data-terminology-in-machine-learning/
-This blog is contributed by Nikhil Kumar. If you like GeeksforGeeks and would like to contribute, you can also write an article using contribute.geeksforgeeks.org or mail your article to contribute@geeksforgeeks.org. See your article appearing on the GeeksforGeeks main page and help other Geeks.
-
-Please write comments if you find anything incorrect, or you want to share more information about the topic discussed above.

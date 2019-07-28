@@ -76,3 +76,4 @@ References:
 https://en.wikipedia.org/wiki/Machine_learning
 https://leonardoaraujosantos.gitbooks.io/artificial-inteligence/
 http://machinelearningmastery.com/data-terminology-in-machine-learning/
+https://developers.google.com/machine-learning/glossary/
